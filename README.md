@@ -1,2 +1,3 @@
 # Hackintosh
-Files related to my Z390 DESIGNARE Hackintosh Build 
+Files related to my Hackintosh Build.
+I've included the BIOS profile/flash and the EFI configuration. Enjoy 
